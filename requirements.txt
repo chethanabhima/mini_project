@@ -1,0 +1,6 @@
+# Tomato Leaf Health Diagnosis - inference dependencies
+# Install a PyTorch build suitable for your CPU/CUDA environment:
+# https://pytorch.org/get-started/locally/
+torch
+torchvision
+Pillow
