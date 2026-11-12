@@ -1,0 +1,11 @@
+class_id,unified_class_name,roboflow_folder_or_label,plantvillage_folder,plantdoc_folder_or_label,class_definition_notes,inclusion_status
+0,bacterial_spot,Tomato___Bacterial_spot,Tomato___Bacterial_spot,PlantDoc bacterial spot subset,Dataset class label: bacterial spot,Active model class
+1,early_blight,Early Blight,Tomato___Early_blight,PlantDoc early blight subset,Dataset class label: early blight,Active model class
+2,healthy,Healthy,Tomato___healthy,PlantDoc healthy subset,Healthy control foliage,Active model class
+3,leaf_miner,Leaf Miner,Not available,Not represented in selected PlantDoc external subset,Dataset class label: leaf miner; pest-damage category,Active model class
+4,mosaic_virus,Mosaic Virus,Tomato___Tomato_mosaic_virus,PlantDoc mosaic virus subset,Dataset class label: mosaic virus; do not infer a specific virus species from the class name alone,Active model class
+5,yellow_leaf_curl_virus,Yellow Leaf Curl Virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,PlantDoc tomato leaf yellow virus / yellow leaf curl subset,Dataset class label: yellow leaf curl virus; verify source-specific taxonomy before causal-agent claims,Active model class
+EXCLUDED_1,late_blight,Not used,Not part of active six-class model mapping,Not used,Outside active model label set,Excluded
+EXCLUDED_2,leaf_mold,Not used,Not part of active six-class model mapping,Not used,Outside active model label set,Excluded
+EXCLUDED_3,septoria_leaf_spot,Not used,Not part of active six-class model mapping,Not used,Outside active model label set,Excluded
+EXCLUDED_4,spider_mites,Not used,Not part of active six-class model mapping,Not used,Outside active model label set,Excluded
